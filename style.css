@@ -18,4 +18,10 @@ body {
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 50px 10px;
+    display: grid;
+    justify-items: center;
+    font-family: 'Poppins', sans-serif;
 }
